@@ -37,6 +37,3 @@ This clone focuses on replicating the **core user experience** and **visual desi
 | **Font Awesome** | Icons (Wishlist, Profile, Bag, etc.) |
 
 
-
-## 📁 Project Structure
-
